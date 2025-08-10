@@ -9,7 +9,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between px-6 py-4 text-black">
           <div className="flex items-center gap-0">
             <div className="p-0 bg-white/20 rounded-full">
-              <img className="h-10 w-10  " src="/public/logo.png" alt="logo" />
+              <img className="h-10 w-10  " src="/logo.png" alt="logo" />
             </div>
             <h1 className="text-xl font-bold text-[#4e5f6d] z-10">
               CampusLoop
